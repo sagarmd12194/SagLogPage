@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "990386749442",
+    "firebase_url": "https://saglogpage.firebaseio.com",
+    "project_id": "saglogpage",
+    "storage_bucket": "saglogpage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990386749442:android:c8166a2734271cf4",
+        "android_client_info": {
+          "package_name": "sagar.android.com.saglogpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990386749442-itmt1sn9upkbl2l4s0drorkgiq51c5bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3hE8av9DNdNfr5CV05DzO4f212V1yFYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
